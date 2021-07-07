@@ -1,4 +1,2 @@
-print("hello world")
-print("My name is Tracy")
-text=("hello world")
-print("text:10")
+name="Tracy"
+print("Hello World my name is "+name)
