@@ -1,1 +1,0 @@
-print ("Hi Carol,Bob and Alice")
